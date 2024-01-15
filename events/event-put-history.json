@@ -1,0 +1,4 @@
+{
+    "httpMethod": "POST",
+    "body": "{\"id\": \"1\",\"from\": \"1\", \"to\": \"2\", \"createdAt\": \"2023-05-03\", \"points\": \"2\"}"
+}
